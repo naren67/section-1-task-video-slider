@@ -1,0 +1,12 @@
+first 
+https://code.jquery.com/
+
+
+secong github
+https://github.com/alvarotrigo/pagePiling.js
+
+copy the js and css file of jquery.pagepilling.min
+
+for anchor tag to toggle between pages
+
+
